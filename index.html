@@ -323,7 +323,7 @@
             if (menuTrigger && menuDrawer) {
                 menuTrigger.addEventListener('click', (e) => {
                     e.stopPropagation();
-                    menuDrawer.classList.toggle('');
+                    menuDrawer.classList.toggle('hidden');
                 });
                 document.addEventListener('click', () => menuDrawer.classList.add('hidden'));
             }
