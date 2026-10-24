@@ -44,5 +44,4 @@ Hotel Reservation & Booking Website
 2. Log in to your [Netlify](https://www.netlify.com/) account.
 3. Click **"Add new site"** > **"Import an existing project"**.
 4. Connect your GitHub repository.
-5. Click **"Deploy"**.
-6.
+5.Click **"Deploy site"**to compile your pages live to the edge distribution network instantly.
